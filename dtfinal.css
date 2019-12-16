@@ -1,0 +1,51 @@
+{\rtf1\ansi\ansicpg936\cocoartf1671\cocoasubrtf200
+{\fonttbl\f0\fnil\fcharset0 HelveticaNeue;}
+{\colortbl;\red255\green255\blue255;\red0\green0\blue0;}
+{\*\expandedcolortbl;;\csgray\c0;}
+\margl1440\margr1440\vieww10800\viewh8400\viewkind0
+\pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\sl-380\pardirnatural\partightenfactor0
+
+\f0\fs26 \cf2 html \{\
+ height: 100%;\
+\}\
+body \{\
+ font-family: Times New Roman;\
+ height: 0%;\
+ margin: 100px;\
+\}\
+a \{\
+ color: blue;\
+\}\
+img \{\
+ float: right;\
+ width: 400px;\
+\}\
+p span\
+\{\
+ font-weight: bold;\
+\}\
+.header \{\
+ background-color: #99B5DD;\
+ position: absolute;\
+ top: 80px;\
+ width: 100%;\
+ height: 100px;\
+ padding: 60px 50px;\
+ font-size: 50px;\
+ z-index: 10;\
+\}\
+.content \{\
+ height: 500px;\
+ position: absolute;\
+ top: 400px;\
+ padding: 10px;\
+ z-index: 0;\
+\}\
+.footer \{\
+ background-color: #0F215D;\
+ position: absolute;\
+ bottom: 0px;\
+ height: 60px;\
+ width: 100%;\
+ z-index: 10;\
+\}}
